@@ -29,19 +29,20 @@
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Background positioning
-- Overflow
+- Root selector
+- Linear gradient
 - Mobile-first workflow
 
 ### What I learned
 
 Basic HTML CSS
-Managing multiple background image positioning
-Using overflow in CSS
+:root selector managment
+Linear-Gradient
 
 ### Useful resources
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/background-position
+https://www.w3schools.com/cssref/sel_root.php
+https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient
 
 ## Author
 
